@@ -1,0 +1,60 @@
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\fib.exe
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\fib.deps.json
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\fib.runtimeconfig.json
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\fib.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\fib.pdb
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\System.CommandLine.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.AssemblyInfo.cs
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.csproj.CopyComplete
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.dll
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\refint\fib.dll
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.pdb
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\fib.genruntimeconfig.cache
+D:\תמר תכנות\שנה ג\fib\fib\obj\Debug\net6.0\ref\fib.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\fib.exe
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\fib.deps.json
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\fib.runtimeconfig.json
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\fib.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\fib.pdb
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\System.CommandLine.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.csproj.AssemblyReference.cache
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.AssemblyInfoInputs.cache
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.AssemblyInfo.cs
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.csproj.CopyComplete
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\refint\fib.dll
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.pdb
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\fib.genruntimeconfig.cache
+D:\תכנות\שנה ג\CLI-in-.NET-main\fib\obj\Debug\net6.0\ref\fib.dll
